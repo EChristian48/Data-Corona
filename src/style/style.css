@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,300;0,700;1,400&display=swap');
+@import "./colors.css";
+
+body {
+    font-family: Roboto, sans-serif !important;
+}
+
+.jumbotron h1 {
+    font-size: 70px;
+}
+
+.jumbotron p {
+    font-size: 25px;
+}
+
+.jumbotron a {
+    text-decoration: none;
+    color: white;
+}
+
+nav a {
+    font-size: 20px;
+}
